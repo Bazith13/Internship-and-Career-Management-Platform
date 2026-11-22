@@ -1,5 +1,6 @@
 <?php
 /* MEMBER 1: Shared database, session, security, and display helpers. */
+// session 
 declare(strict_types=1);
 
 const DB_HOST = '127.0.0.1';
